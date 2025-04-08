@@ -131,4 +131,4 @@ Default numerical parameters:
 
 ## Visualization
 
-The CSV output files can be visualized using external tools such as ParaView, MATLAB, Python (with matplotlib), or similar visualization software.
+The CSV output files can be visualized using external tools such as ParaView, MATLAB, Octave, Python (with matplotlib), or similar visualization software. A file named "Readcsv.m" is shared in the folder which can be used to create and save scalar plots by reading the csv's.
