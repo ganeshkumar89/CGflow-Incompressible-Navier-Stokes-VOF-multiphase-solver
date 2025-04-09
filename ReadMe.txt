@@ -73,12 +73,12 @@ Simulates an air bubble rising through water due to buoyancy.
 
 1. Compile the code using a C++ compiler:
    ```
-   g++ -o fluid_simulator Commonnost_old_dumpcsvsss.cpp
+   g++ -o fluid_simulator CGflow_incompVOF.cpp
    ```
 
 2. Run the executable:
    ```
-   ./fluid_simulator
+   ./CGflow_incompVOF
    ```
 
 3. Follow the prompts to input parameters:
